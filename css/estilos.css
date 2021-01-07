@@ -1,0 +1,93 @@
+*{
+margin:0;
+padding:0;
+}
+html{
+background-color:lightgray;
+}
+body{
+width:1680px;
+height:1050px; 
+margin:auto; 
+background-color:black;
+padding: px;
+}
+header{
+width:1680px; 
+height:200px; 
+background-color:white;
+}
+nav{
+width:200px; 
+height:600px; 
+float:left;
+background-color:yellow;
+}
+main{
+width:1680px; 
+height:510px; 
+background-color:white;
+}
+section#video{
+width:840px;
+ height:255px; 
+backgrpund-color:DarkSeaGreen;
+}
+footer{
+width:1680px; 
+height:50px; 
+float:right; 
+background-color:#B45F04;
+}
+section#Logo{
+width:200px;
+ height:200px;
+float:left; 
+background-color:#F7D358 ;
+}
+section#Banner{
+width:1480px; 
+height:200px;
+float:right; 
+background-color:#F7D358; 
+padding: px;
+}
+Article{
+width:870px; 
+height:770px; 
+float:left; 
+background-color:#F5DA81;
+ paDDING:15PX
+}
+Aside{
+width: 550px;
+ height:770px;
+ float:right; 
+background-color:#FAAC58; 
+padding:15px
+}
+section#Boton1{
+width:200px; 
+height:200px; 
+background-color:#FFBF00;
+}
+section#Boton2{
+width:200px; 
+height:200px; 
+background-color:#B18904;
+}
+section#Boton3{
+width:200px; 
+height:200px; 
+background-color:#FFBF00;
+}
+section#Boton4{
+width:200px; 
+height:200px; 
+background-color:#886A08;
+}
+.imagen{
+width: 50%; 
+opacity: 0.8;
+border-radius: 10%;
+}
